@@ -3,7 +3,6 @@
 int WINAPI WinMain(HINSTANCE, HINSTANCE, int)
 {
 	ChangeWindowMode(TRUE);
-	ChangeWindowMode(TRUE);
 	DxLib_Init();
 	SetGraphMode(800, 600, 32);
 	if (DxLib_Init() == -1)return -1;
