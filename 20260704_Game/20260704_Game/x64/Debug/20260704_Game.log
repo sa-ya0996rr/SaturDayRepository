@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\student\Desktop\SaturDayRepository\20260704_Game\Main.cpp(3,12): error C2731: 'WinMain': 関数はオーバーロードできません。
+      C:\Users\student\Desktop\SaturDayRepository\20260704_Game\Main.cpp(3,12):
+      'WinMain' の宣言を確認してください
+  
